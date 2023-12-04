@@ -16,4 +16,7 @@ In terms of preprocessing, I ensured that the image data was appropriately resiz
 
 As I delved into the intricacies of the problem, I encountered perplexing outcomes during the training epochs, leading me to question the effectiveness of the adopted strategies. At this juncture, I seek valuable insights and guidance to decipher the root cause behind the model's reluctance to learn effectively. Any suggestions or recommendations to enhance the training process and improve the accuracy of the model would be immensely beneficial. Your expertise and assistance in unraveling this puzzle would be highly appreciated.
 
+--update ![accuracy_plot](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/assets/70305108/5de9a6ec-779e-4482-ad59-0a06ee98f186)
+
+
 
