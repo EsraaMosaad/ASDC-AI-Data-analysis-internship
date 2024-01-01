@@ -16,19 +16,20 @@ Steps:
 
 
 6. **Model Evaluation**  Results, including precision, recall, and mAP values 
- *Training Metrics*
+  *Training Metrics*
               Loss: 0.75
               Precision (P): 0.801
               Recall (R): 0.79
               mAP50: 0.801
               mAP50-95: 0.487
+
   *Class-wise Performance*
 
     The model shows good performance across various tooth classes (e.g., 11, 12, ..., 48) with consistent precision and recall values.
     The 'Crown' class achieves high precision (0.895) and recall (0.908).
     'Implant' and 'Root Canal' classes also demonstrate strong performance with high precision and recall.
 
-*Instance Segmentation*
+ *Instance Segmentation*
 
     The model successfully identifies instances of dental conditions, such as implants, root canals, and crowns, across the dataset.
     The mAP50 (mean Average Precision) values indicate the model's ability to precisely locate and classify instances.
@@ -38,7 +39,8 @@ Steps:
 
 8. **Visualization:** The results are visualized using matplotlib. Images with overlaid masks for specific classes, such as 'Root Canal,' demonstrate the model's ability to perform instance segmentation.
 
-9. **Summary:** The project successfully achieves the goal of instance segmentation in dental X-ray images, identifying tooth numbers and specific conditions. The trained model can be further fine-tuned or used for predictions on new data.
+9. **Summary:** The project successfully achieves the goal of instance segmentation in dental X-ray images, identifying tooth numbers
+and specific conditions. The trained model can be further fine-tuned or used for predictions on new data.
 
 
 
