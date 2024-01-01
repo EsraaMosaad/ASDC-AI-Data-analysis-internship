@@ -6,6 +6,7 @@ Task 1: Perform customer segmentation using any method or tools you prefer.  Ana
 Dataset Link: https://github.com/ELSOUDY2030/Mall-Customers.git
 
 /////////////////////////////////////////////////////
+
 Task 2: 102 Category Flower Dataset
 
 I embarked on the challenging task of classifying images using the well-known "102 Category Flower Dataset." Initially, I opted for the ResNet50 pre-trained model for its powerful feature extraction capabilities. However, to my dismay, the training process resulted in unsatisfactory outcomes, and the situation escalated to the point of Colab crashing. 
