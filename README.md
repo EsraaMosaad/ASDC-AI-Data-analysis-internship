@@ -23,5 +23,8 @@ I aim to enhance efficiency and address issues by optimizing my approach. I exec
 
 ![accuracy_plot](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/assets/70305108/5de9a6ec-779e-4482-ad59-0a06ee98f186)
 
+//////////////////////////////////////////
+Task 4 Dental X-ray Image Instance Segmentation
 
+Objective: The goal of this project is to train a model to recognize tooth numbers and conditions such as implants, root canals, or crowns in dental X-ray images using Instance Segmentation. The project acknowledges the tutorial [link](https://www.youtube.com/watch?v=ytlhMAF6ok0&t=1736s) for guidance on implementing YOLOv8 for instance segmentation.
 
