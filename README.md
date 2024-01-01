@@ -2,8 +2,10 @@
 
 
 
-**Task 1: Perform customer segmentation ** using any method or tools you prefer.  Analyze the dataset and segment customers based on relevant parameters like Gender ,Age, or any other criteria you find important.
+**Task 1: Perform customer segmentation ** 
+using any method or tools you prefer.  Analyze the dataset and segment customers based on relevant parameters like Gender ,Age, or any other criteria you find important.
 Dataset Link: https://github.com/ELSOUDY2030/Mall-Customers.git
+([Task 1/Perform_customer_segmentation.ipynb](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/blob/main/Task%201/Perform_customer_segmentation.ipynb))
 
 /////////////////////////////////////////////////////
 
@@ -24,7 +26,7 @@ I aim to enhance efficiency and address issues by optimizing my approach. I exec
 ![accuracy_plot](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/assets/70305108/5de9a6ec-779e-4482-ad59-0a06ee98f186)
 
 
-([Task 1/Perform_customer_segmentation.ipynb](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/blob/main/Task%201/Perform_customer_segmentation.ipynb))
+
 
 //////////////////////////////////////////
 
