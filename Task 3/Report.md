@@ -1,4 +1,4 @@
-#Semantic Segmentation for Sports Analytics
+# Semantic Segmentation for Sports Analytics
 
 **Task Description:**
   Perform pixel-perfect semantic segmentation with 11 classes on a dataset consisting of 100 frames extracted at every 12th frame from 
