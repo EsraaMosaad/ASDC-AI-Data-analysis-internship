@@ -25,6 +25,12 @@ I aim to enhance efficiency and address issues by optimizing my approach. I exec
 
 ![accuracy_plot](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/assets/70305108/5de9a6ec-779e-4482-ad59-0a06ee98f186)
 
+/////////////////////////////////////////
+**Task 3 Semantic Segmentation for Sports Analytics
+
+  Perform pixel-perfect semantic segmentation with 11 classes on a dataset consisting of 100 frames extracted at every 12th frame from 
+  the Real Madrid vs. Manchester United match. The frames have been carefully curated, with some blurred frames and outliers replaced.
+  The dataset is tailored for training detection models with a focus on sports analytics, particularly soccer.
 
 
 
