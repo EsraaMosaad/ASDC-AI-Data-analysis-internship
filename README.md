@@ -22,7 +22,9 @@ I aim to enhance efficiency and address issues by optimizing my approach. I exec
 
 
 ![accuracy_plot](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/assets/70305108/5de9a6ec-779e-4482-ad59-0a06ee98f186)
-([Task 1/Perform_customer_segmentation.ipynb] (https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/blob/main/Task%201/Perform_customer_segmentation.ipynb))
+
+
+([Task 1/Perform_customer_segmentation.ipynb](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/blob/main/Task%201/Perform_customer_segmentation.ipynb))
 
 //////////////////////////////////////////
 
