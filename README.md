@@ -32,7 +32,7 @@ I aim to enhance efficiency and address issues by optimizing my approach. I exec
   the Real Madrid vs. Manchester United match. The frames have been carefully curated, with some blurred frames and outliers replaced.
   The dataset is tailored for training detection models with a focus on sports analytics, particularly soccer.
 
-[FOOTBALL SEMANTIC SEGMENTATION (patchify img)]()
+[FOOTBALL SEMANTIC SEGMENTATION](https://github.com/EsraaMosaad/ASDC-AI-Data-analysis-internship/tree/main/Task%203)
 
 //////////////////////////////////////////
 
