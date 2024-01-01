@@ -1,4 +1,4 @@
-Title: Dental X-ray Image Instance Segmentation
+#Title: Dental X-ray Image Instance Segmentation
 
 Objective: The goal of this project is to train a model to recognize tooth numbers and conditions such as implants, root canals, or crowns in dental X-ray images using Instance Segmentation. The project acknowledges the tutorial [link](https://www.youtube.com/watch?v=ytlhMAF6ok0&t=1736s) for guidance on implementing YOLOv8 for instance segmentation.
 
