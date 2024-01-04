@@ -22,13 +22,13 @@
 
 ### Resizing Input Images
 
-    - **Description:** The input images have been resized to a fixed size of 256x256 pixels.
-    - **Advantages:**
-      - Simplicity and consistency: Resizing ensures a uniform input size for all images, facilitating neural network training.
-      - Potential training speedup: Fixed-size inputs might contribute to faster training times.
-    - **Considerations:**
-      - Information loss: Depending on the dataset, resizing may result in the loss of important details, especially if there are 
-            significant variations in object sizes.
+  - **Description:** The input images have been resized to a fixed size of 256x256 pixels.
+  - **Advantages:**
+    - Simplicity and consistency: Resizing ensures a uniform input size for all images, facilitating neural network training.
+    - Potential training speedup: Fixed-size inputs might contribute to faster training times.
+  - **Considerations:**
+    - Information loss: Depending on the dataset, resizing may result in the loss of important details, especially if there are 
+          significant variations in object sizes.
 
 ### Patchifying Images
 
